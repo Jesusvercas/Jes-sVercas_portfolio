@@ -14,4 +14,8 @@
 }
 #dos{
     text-align: center;
+
+}
+input:hover{
+    color: greenyellow;
 }
