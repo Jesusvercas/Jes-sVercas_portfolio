@@ -9,8 +9,8 @@
      text-align: center;
 }
 .class{
-    padding: 180px;
-    margin: 180px;
+    padding: 200px;
+    margin: 200px;
 }
 #dos{
     text-align: center;
@@ -21,4 +21,5 @@ input:hover{
 }
 #tres{
     text-align: center;
+
 }
