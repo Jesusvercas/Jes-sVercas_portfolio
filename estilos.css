@@ -19,6 +19,9 @@
 input:hover{
     background-color: greenyellow;
 }
-#tres:hover{
-color: greenyellow;
+#tres{
+    text-align: center;
+}
+i:hover{
+    color: greenyellow;
 }
