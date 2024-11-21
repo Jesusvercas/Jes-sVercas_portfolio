@@ -22,6 +22,6 @@ input:hover{
 #tres{
     text-align: center;
 }
-i:hover{
+#tres:hover{
     color: greenyellow;
 }
